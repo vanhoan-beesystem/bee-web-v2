@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <circle cx="50" cy="50" r="48" fill="#FBF7F3" stroke="#265397" stroke-width="3"/>
+  <!-- Bee Body / Heart silhouette -->
+  <path d="M50 24 C40 14, 24 20, 24 35 C24 50, 42 66, 50 78 C58 66, 76 50, 76 35 C76 20, 60 14, 50 24 Z" fill="#265397" />
+  <!-- Bee Wings in Sky Blue -->
+  <ellipse cx="32" cy="30" rx="14" ry="9" transform="rotate(-25 32 30)" fill="#0284C7" fill-opacity="0.85"/>
+  <ellipse cx="68" cy="30" rx="14" ry="9" transform="rotate(25 68 30)" fill="#0284C7" fill-opacity="0.85"/>
+  <!-- Bee Antennae -->
+  <path d="M46 22 Q42 14 38 15" stroke="#193662" stroke-width="2.5" stroke-linecap="round"/>
+  <circle cx="37" cy="15" r="2.5" fill="#06B6D4"/>
+  <path d="M54 22 Q58 14 62 15" stroke="#193662" stroke-width="2.5" stroke-linecap="round"/>
+  <circle cx="63" cy="15" r="2.5" fill="#06B6D4"/>
+  <!-- ECG Wave across heart in Accent Cyan -->
+  <path d="M28 46 L38 46 L42 41 L46 54 L52 36 L56 50 L60 46 L72 46" stroke="#06B6D4" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
